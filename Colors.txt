@@ -1,9 +1,9 @@
 Black
 White
-Blue         - Pantone 287 C
-Purple       - Pantone 248 C
-Orange       - Pantone 137 C
-Gray+Magenta - Pantone 2705 C
+Blue              - Pantone 287 C
+Purple            - Pantone 248 C
+Orange            - Pantone 137 C
+Gray/Magenta/Blue - Pantone 2705 C
 Gray - 20%
 Gray - 25%
 Gray - 60%
